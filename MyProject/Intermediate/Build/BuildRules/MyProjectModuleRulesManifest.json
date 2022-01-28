@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\joesi\\OneDrive\\Documents\\GitHub\\UE4-Sample-WindowsEnv\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
+		"C:\\Users\\joesi\\OneDrive\\Documents\\GitHub\\UE4-Sample-WindowsEnv\\MyProject\\Source\\MyProject.Target.cs",
+		"C:\\Users\\joesi\\OneDrive\\Documents\\GitHub\\UE4-Sample-WindowsEnv\\MyProject\\Source\\MyProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
