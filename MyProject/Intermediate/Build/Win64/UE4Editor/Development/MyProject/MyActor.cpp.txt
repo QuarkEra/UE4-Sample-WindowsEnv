@@ -1,0 +1,7 @@
+C:\Users\joesi\OneDrive\Documents\GitHub\UE4-Sample-WindowsEnv\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+C:\Users\joesi\OneDrive\Documents\GitHub\UE4-Sample-WindowsEnv\MyProject\Source\MyProject\MyActor.h
+C:\Users\joesi\OneDrive\Documents\GitHub\UE4-Sample-WindowsEnv\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyActor.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
