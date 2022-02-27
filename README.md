@@ -1,2 +1,2 @@
 # UE4-Sample-WindowsEnv
-Lets try this without XCode nuking my files shall we
+Added a C++ class, made it blueprintable and actor recieves Add Impulse when overlapped boundary with player. Made for an interview.
